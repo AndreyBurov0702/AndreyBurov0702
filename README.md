@@ -1,16 +1,14 @@
-# Hi👋, My name is Andrey!I a beginner Java developer.
+### Hi👋 My name is, Andrey!
+### About Me: 
+- I am Junior Java backend developer.
+- Currently working on a project to create a server part of an application for calculating
+premiums for travel insurance risks. 
+- You can see the project [here](https://github.com/javagurulv/2024_virtual_internship_autumn.git)
+- Ready for any new interesting challenges and cooperation
 
-<!--
-**AndreyBurov0702/AndreyBurov0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
