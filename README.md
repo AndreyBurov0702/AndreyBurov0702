@@ -26,7 +26,7 @@
 
 ---
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBurov0702&show_icons=true&theme=radical&cache_seconds=0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBurov0702&show_icons=true&theme&cache_seconds=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBurov0702)](https://github.com/anuraghazra/github-readme-stats)
 
