@@ -2,7 +2,7 @@
 #### About Me:
 - I am Junior Java backend developer.
 - I am currently working on a project to develop the server-side of an application for calculating premiums for travel insurance risks. 
-- You can see the project [here](https://github.com/javagurulv/2024_virtual_internship_autumn.git)
+- You can see the project [here](https://github.com/AndreyBurov0702/travel_insurance_calculator_my.git)
 - Ready for any new interesting challenges and cooperation.
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,8 +27,6 @@
 ---
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreyBurov0702&theme=default)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBurov0702&show_icons=true&theme&cache_seconds=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBurov0702)](https://github.com/anuraghazra/github-readme-stats)
 
